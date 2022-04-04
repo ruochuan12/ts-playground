@@ -18,4 +18,3 @@ const person = new Person({
 
 const ob = person.getInfo('name');
 console.log(ob);
-

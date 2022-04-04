@@ -1,0 +1,26 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "description": "typescript-playground",
+  "main": "Record.js",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxchuan12/ts-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxchuan12/ts-playground/issues"
+  },
+  "homepage": "https://github.com/lxchuan12/ts-playground#readme"
+}
